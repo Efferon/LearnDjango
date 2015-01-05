@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sin",
+				"signup"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"url",
+				"urlpatterns"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mvp_landing/settings.py",
+			"settings":
+			{
+				"buffer_size": 3021,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/user/Desktop/LearnDjango/src/mvp_landing/settings.backup",
+		"/Users/user/Desktop/LearnDjango/static/templates/thankyou.html",
+		"/Users/user/Desktop/LearnDjango/static/templates/aboutus.html",
+		"/Users/user/Desktop/LearnDjango/src/signups/views.py",
+		"/Users/user/Desktop/LearnDjango/src/mvp_landing/urls.py",
+		"/Users/user/Desktop/LearnDjango/static/templates/signup.html",
+		"/Users/user/Desktop/LearnDjango/static/templates/navbar.html",
+		"/Users/user/Desktop/LearnDjango/static/templates/base.html",
+		"/Users/user/Desktop/LearnDjango/static/static/css/custom.css",
+		"/Users/user/Desktop/LearnDjango/static/static/bootstrap.min.css",
+		"/Users/user/Desktop/LearnDjango/static/static/css/cutsom.css",
+		"/Users/user/Desktop/LearnDjango/static/static/jumbotron.css",
+		"/Users/user/Desktop/LearnDjango/src/signups/forms.py",
+		"/Users/user/Desktop/LearnDjango/src/signups/models.py",
+		"/Users/user/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/user/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jumbotron"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mvp_landing/settings.py",
+					"settings":
+					{
+						"buffer_size": 3021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2074,
+								2288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 637.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true
+}
