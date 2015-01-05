@@ -68,13 +68,10 @@ WSGI_APPLICATION = 'mvp_landing.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mvp',
-        'USER': 'root',
-        'PASSWORD': 'hi9Pw,mM6',
-        'HOST': '',
-        'PORT': '',
+        'OPTIONS': {
+            'read_default_file': os.path.join((BASE_DIR), 'mysql.cnf'),
 
-        
+        },        
     }
 }
 
