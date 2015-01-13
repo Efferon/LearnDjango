@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"request"
+			],
+			[
+				"djan",
+				"django"
+			],
+			[
 				"sin",
 				"signup"
 			],
@@ -19,14 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/mvp_landing/settings.py",
-			"settings":
-			{
-				"buffer_size": 3021,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,10 +72,12 @@
 	},
 	"file_history":
 	[
+		"/Users/user/Desktop/LearnDjango/src/mvp_landing/settings.py",
+		"/Users/user/Desktop/LearnDjango/src/signups/views.py",
+		"/Users/user/Desktop/LearnDjango/src/mvp_landing/mysql.cnf",
 		"/Users/user/Desktop/LearnDjango/src/mvp_landing/settings.backup",
 		"/Users/user/Desktop/LearnDjango/static/templates/thankyou.html",
 		"/Users/user/Desktop/LearnDjango/static/templates/aboutus.html",
-		"/Users/user/Desktop/LearnDjango/src/signups/views.py",
 		"/Users/user/Desktop/LearnDjango/src/mvp_landing/urls.py",
 		"/Users/user/Desktop/LearnDjango/static/templates/signup.html",
 		"/Users/user/Desktop/LearnDjango/static/templates/navbar.html",
@@ -123,37 +125,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/mvp_landing/settings.py",
-					"settings":
-					{
-						"buffer_size": 3021,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2074,
-								2288
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 637.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
